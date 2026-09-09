@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 09 Sep 2026 16:29:23 +0000
+Description: CoreLab OS stable updates
+Label: CoreLab OS
+Origin: CoreLab OS
+Suite: stable
+MD5Sum:
+ 1c0c5f4de62f67fa8829e258e64df5ea              183 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ 53475efc5b210e4c5a2e424474b8d7fa               29 main/binary-amd64/Packages.gz
+SHA1:
+ 8b6f3219fcb8b64ec26741cb915887e31b2d652e              183 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ 51a35b8980fb3cb32cbc485601e860d02f4694bd               29 main/binary-amd64/Packages.gz
+SHA256:
+ d3b07f0e8831ecf0f8cc17d53ff321f32af01fd51e9bb9be80bf27a82c49b693              183 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ 6db72173823ac8ad0c146268997fd26e2a996a0f85ff7a34c285bc1c586474fe               29 main/binary-amd64/Packages.gz
+SHA512:
+ 9de90f384754f51ca613c0a7c0d4f21a53ec03cd85d35054aca894d6d0fc0d5e628ad0a5f1d45ed31053f42309fd14e18aa68797f016f103b855ecf230576f10              183 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ 56a657c089f065ca71bd1cc6ea1839efb549ca77ead030df7c834a8950b90a9aac12db1fb5ba0f331085dcba8c2513b50e08cf9ac2e9de1b8f9977fbdc5ed9e7               29 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE86VVwRRDDYBZDXF3lnXrQ67tvG4FAmqhiXMACgkQlnXrQ67t
+vG7cYgv/WpC8AENaVmHNppalZGSn7+NdgufasgzpJN+KqzxdDTs7q2qVu98O7WV4
+PWCoRDLtawSTwyFN1chsd3LLtXViOhrIVc6j0pIIP/r3+mZ2HRvu2q6DzHOhrenl
+7j+q4IDZJ/DxgtVKb+cL3yoIoijGiXF74H22yYvtSqclEHprV1aT92XmUqsm/UnA
+KZcA3sfUgnn7fbnlRE146EB9oP6J9v5Do2HhE/ZZbJJQteEpxMikdpEGNy/fV95G
+00JyrAEMmgyCB3o2BXvpnMXpL+mkPTQsUtYkS1WeTx3FLz1DqGAWubOYeazEvNsO
+Zj4sGP8H/EkMpWKebvTkLjezt1JGNypAhWxx7yS70wy5dhtpWi3p2eJxre4v3Uwx
+nJwOxaWkpA+69xquIh09ShZZLKr+ifYV7Jr8a9XKBgm+bhdJ/hB6vUUMIUGGPv35
+V+2imxBCDguI1Vs+9wEr5jfcy/W7beGjXVer5FjAm7rhD7gAdPUeqSIsR5+npxkQ
+yACELw3r
+=1p3F
+-----END PGP SIGNATURE-----
