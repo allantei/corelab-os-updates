@@ -1,0 +1,16 @@
+Package: corelab-desktop
+Version: 0.3.0-1
+Architecture: all
+Maintainer: CoreLab OS Project <116855339+allantei@users.noreply.github.com>
+Depends: plank, arc-theme, papirus-icon-theme, xfce4-whiskermenu-plugin, xfce4-pulseaudio-plugin, xfce4-notifyd, network-manager-gnome, pavucontrol, fonts-noto-core, gnome-system-monitor, gnome-disk-utility, file-roller, xfce4-screenshooter, galculator, gufw, deja-dup, flatpak, fwupd, apparmor-utils, needrestart, cups, system-config-printer, blueman, gvfs-backends, xdg-user-dirs, libnotify-bin
+Filename: pool/main/corelab-desktop_0.3.0-1_all.deb
+Size: 1379026
+MD5sum: 254fc111ac64fadd086b3feebe94b025
+SHA1: 0a665e7ea0e4670dc2d6562c5e70c21d6fe22eba
+SHA256: b1267d76d54e55beec05d5047297d8a7b8f7ca5276889e90a8b8d05945d4bc4b
+Section: metapackages
+Priority: optional
+Description: CoreLab OS desktop identity and essential applications
+ Original CoreLab visual identity, XFCE layout, dock, update center,
+ backup, security, disk, printing, Bluetooth and application tools.
+
